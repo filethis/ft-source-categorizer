@@ -1,0 +1,31 @@
+{
+  "name": "ft-source-categorizer",
+  "description": "An element that lets us categorize sources/institutions.",
+  "main": "ft-source-categorizer.html",
+  "dependencies": {
+    "ft-element-demo": "filethis/ft-element-demo#^0.0.11",
+    "polymer": "Polymer/polymer#1.9 - 2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#1 - 2",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#1 - 2",
+    "iron-test-helpers": "PolymerElements/iron-test-helpers#1 - 2",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "1.9 - 2",
+    "webcomponentsjs": "^1.0.0"
+  },
+  "homepage": "https://github.com/filethis/ft-source-categorizer",
+  "_release": "4d5141a4a8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4d5141a4a86c5918ebf238c9994f9efb167b0f1d"
+  },
+  "_source": "https://github.com/filethis/ft-source-categorizer.git",
+  "_target": "master",
+  "_originalSource": "filethis/ft-source-categorizer",
+  "_direct": true
+}
