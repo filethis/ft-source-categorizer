@@ -1,7 +1,7 @@
 # Project configuration
 NAME=ft-source-categorizer
 SRC_DIR=
-VERSION=1.0.6
+VERSION=1.0.7
 LOCAL_PORT=3529
 GITHUB_USER=filethis
 GITHUB_USER_ABBREV=ft-source-categorizer
